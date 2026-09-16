@@ -50,4 +50,4 @@ const addToCart = () =>{
     )
 }
 
-export default Products
+export default Product
